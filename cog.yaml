@@ -20,7 +20,7 @@ build:
     - "torch"
     - "torchvision"
     - "torchaudio"
-    - "yt-dlp==2023.7.6"
+    - "yt-dlp"
     - "ffmpeg==1.4"
     - "demucs>=4.0.1"
     - "numpy==1.23.5"
